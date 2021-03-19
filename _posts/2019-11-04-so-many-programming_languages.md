@@ -1,6 +1,7 @@
 ---
 layout: very-specific-post
 title: Why are there so many programming languages?
+tag: programming
 ---
 This was a question I was recently asked, and to which I failed to give much of an answer, being rather engrossed in using of one at the time. Thinking about it later, however, it is a question worth answering, especially for people looking at programming from the outside, for whom it often seems to be a rather mysterious and ill understood subject. This article begins with just a little context as to what a programming language really is, before outlining a few of the things that differentiate them in an attempt to answer the question. Not every detail will be included to keep this at a reasonable length (definitely not anything to do with me not knowing), but enough to hopefully get a feel for the ideas.
 

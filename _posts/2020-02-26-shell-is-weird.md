@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shell scripting is weird
+tag: programming
 ---
 I've worked with bash and unix on and off for a few years now, and generally feel comfortable working in a terminal. Recently, however, I've joined a project that involves lots of both writing, and running code over ssh, and have had to learn a lot of things in the process. And it crystallized for me today - shell scripting is **weird**.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The News loves a good plague
+tag: rant
 ---
 With the coronoavirus sweeping across the planet like a... well, plague, news headlines are full of basically nothing else. Every time a new country is infected, or statistics on its spread and mortality rates are compiled, or new actions are implemented to combat the disease, we are presented with BREAKING NEWS on untold thousands of media channels.
 

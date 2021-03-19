@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Food Prices Reveal Seriously Wack Nature of Modern Humans
+tag: rant
 ---
 As I left the supermarket (which are amongst the greatest achievements of mankind), it ocurred to me that the amount we pay for some types of food, from certain places, makes very little sense. Amongst my purchases was a pizza (an invention which is probably even better than the supermarket) - a fancy, end-of-week treat pizza. It cost £3, which is somewhere between a quarter and a half the price of ordering something similar from a takeaway, which are immensely popular the world over, and, from a rational perspective, cost way too damn much to have remained so.
 
