@@ -2,6 +2,8 @@
 layout: post
 title: Four necessities for decent food
 ---
+edit (19/03/2021): It has come to my attention that there is a famous book, [Salt Fat Acid Heat](https://www.saltfatacidheat.com/), which says much the same thing as this post, but with much more acutal information. This post is therefore either an extremely concise summary, or an unresearched, pointless rehashing of a much better piece of work, depending on how charitable you're feeling.
+
 Two posts in quick session. Wonders will never cease, but hey - I'm feeling typative. On the miniscule chance you're reading this and wondering why your cooking seems to be missing a little something, it's probably one of these four things.
 
  - Salt: Every recipe you'll ever see has this in it for a reason. For chemistry reasons I don't understand, salt amplifies the flavour of pretty much everything, so if your dish is a little bland, or missing something you can't quite put your finger on, it's probably this. Add some salt, or a salty ingredient like soy sauce, fish sauce, a salted meat like bacon, etc - whatever fits the cuisine you're cooking. On a similar note, fresh ground pepper is good in just about everything.
