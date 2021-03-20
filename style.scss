@@ -210,7 +210,7 @@ img {
   }
 }
 
-nav {
+#page-nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -235,6 +235,31 @@ nav {
       color: $blue;
     }
   }
+}
+
+#body-content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+menu {
+    padding: 3px;
+    order: 2;
+    @include mobile {
+        display: none;
+    }
+
+    li.closed {
+        list-style-type: disclosure-closed;
+        ul {
+            display: none;
+        }
+    }
+
+    li.open {
+        list-style-type: disclosure-open;
+    }
 }
 
 //

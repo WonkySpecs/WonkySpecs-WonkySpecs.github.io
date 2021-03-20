@@ -12,6 +12,8 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    <script type="text/javascript">{% include site.js %}</script>
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -25,7 +27,7 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
+          <nav id="page-nav">
             <a href="{{ site.baseurl }}/">Posts</a>
             <a href="{{ site.baseurl }}/projects">Projects</a>
             <a href="{{ site.baseurl }}/about">About</a>
@@ -34,8 +36,30 @@
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+    <div id="body-content" class="container">
+        {% assign tags = site.posts.tags[0] %}
+        {% for p in site.posts %}
+            {% assign tags = tags | concat: p.tags | uniq %}
+        {% endfor %}
+        <menu id="sidebar-links">
+            {% for tag in tags %}
+            <!-- open by default but closed on page load by js 
+                makes sure they're visible for non-js viewers -->
+            <li class="open sidebar-section">
+                {{ tag }}
+                <ul>
+                {% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains tag" %}
+                {% for p in posts_with_tag %}
+                <a href="{{ p.url }}">{{ p.title }}</a>
+                {% endfor %}
+                </ul>
+            </li>
+            {% endfor %}
+        </menu>
+
+        <div id="main" role="main">
+          {{ content }}
+        </div>
     </div>
 
     <div class="wrapper-footer">
