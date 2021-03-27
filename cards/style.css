@@ -1,0 +1,17 @@
+main {
+    max-width: 20em;
+}
+
+.deck-container {
+    margin: 1em;
+    padding: 0.2em;
+    border: 1px solid grey;
+}
+
+.name-label {
+    border-width: 0 0 1px 0;
+}
+
+.deck-container button {
+    margin: 2px;
+}
