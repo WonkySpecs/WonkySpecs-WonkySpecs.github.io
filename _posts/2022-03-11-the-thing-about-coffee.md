@@ -1,0 +1,21 @@
+---
+layout: post
+title: The thing about coffee...
+---
+It's too damn good. It's bottled focus in hot, liquid form, and it's a balm for slow days, busy days, cold days, and hot ones (when drunk cold). If that sounds like it's good pretty much every day, I'd be inclined to agree - and that's where the problems start.
+
+There have been several periods in my life where functioning was... difficult, before I'd had the first of several mugs for the day, and that's not a fun state to be in. Mostly because you don't get to feel the good sides of coffee at that point; it goes from being a supercharger to a necessity for normality. The thing is, it was very easy to fall into that state, because the first day with coffee is great, and so's the second, and the third. All through the third week or so straight is still pretty good, but it's downhill from there as your body builds both a tolerance and a dependency.
+
+Of course, this is far from being unique to coffee (or, if we're being precise, caffeine. I don't think I'll ever have an energy drink again but boy did _those_ days fly). It's common across pretty much every kind of mind altering drug, it's just that society at large has absolutely accepted that coffee is an ok thing to be addicted to.
+
+It's easy to find coffee anywhere. At work, everyone takes coffee breaks. Go to a meeting or conference, and coffee's probably being offered. Walk down any shopping street and it's hard not to find a coffee shop or three, and most pubs and restaurants have a machine behind the counter. Visit someone and they'll probably offer you a mug. It's quite hard to avoid, really.
+
+After hitting a real low point in daily energy last year, I've finally been building a healthier relationship with the stuff, and it's once again become a joy rather than an obligation. It started with going completely caffeine free for about two months. This sucked - like other, shorter breaks I've taken before, the first few days were mostly just headaches and misery, and the first couple of weeks were noticeably low energy. After that however, things got better surprisingly quickly. It wasn't long before my energy on a normal day felt the same as it had with daily coffee, except much more stable. Sleeping became easier, as did waking up (though I'm still pretty bad at that).
+
+This wasn't the first break I'd taken, but it was by far the longest, and after finally getting back to feeling 'normal' again I've been pretty determined to not throw it away. Did I say that the breaks really suck? I found two things were key to changing this habit. Firstly, finding substitutes - green and oolong teas, and some decent decaffe coffee. I'd always thought the former couldn't match up, and the latter didn't exist, but it turns out neither is true if you look around and find some good quality options. Having substitutes has been extremely important to fill the times when what I really want is something hot to drink, which before _had_ to be coffee. With a few weeks of consciously choosing otherwise, the alternatives have now become completely normalised for me.
+
+Secondly, setting a strict schedule for myself when I started to drink it again. You didn't think I'd give it up entirely did you? After that first paragraph? Like so many things, there's nothing wrong with coffee _in moderation_, and there's a whole lot right about it in the right amounts. My most productive days still happen with a couple of steaming mugs in hand, and that's a hard thing to give up entirely. I went with a simple restriction to avoid another downward spiral - caffeinated coffee one day a week, maximum. That seems to be a large enough interval for me to avoid building a tolerance again, at least for the few months I've been doing this.
+
+I guess what I'm saying is, maybe reconsider your caffeine intake if you regularly feel like a zombie thirsting for bean juice, and don't get anything more than 'feeling normal' out of your daily mug. Making the switch isn't much fun, but it's been very worth it in my experience. Coffee when you have a dependency on it can feel like a ball and chain; breaking the habit turned it into a pair of wings once again.
+
+This post was brought to you by Friday, my coffee day for the week.
