@@ -4,7 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-Currently working on a little puzzle game, [plannertron](https://github.com/WonkySpecs/plannertron), and an accompanying [library](https://github.com/WonkySpecs/ddnimlib) for 2D game dev in nim.
+Some neat things I've done recently:
+
+ - A [dice rolling shell](https://github.com/WonkySpecs/rolldice), because I forgot to bring dice once for DnD.
+ - A web interface for [administrating ICAT data](https://github.com/WonkySpecs/icat-admin), because the 'official' application was a pain to use at work.
 
 Some of the projects I've worked on which are reasonably complete:
 
@@ -12,4 +15,4 @@ Some of the projects I've worked on which are reasonably complete:
 - [Arboretum](https://github.com/WonkySpecs/arboretum) server and web client. Pretty hacked together, not well tested, and still WIP, but a functional way to play arboretum over the internet.
 - [Mandelbrot](https://github.com/wonkyspecs/mandelbrot/) rendering with Canvas.
 
-Check out my github for other work in various stages of completion and abandonment.
+Check out my github for other work in various stages of completion and (mostly) abandonment.
