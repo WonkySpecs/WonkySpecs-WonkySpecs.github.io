@@ -1,0 +1,40 @@
+---
+layout: post
+---
+
+
+<script>
+    function setImageClips(slider) {
+        const container = slider.parentElement.children[0].children[0];
+        const images = new Array(...container.children)
+                .filter(e => e.tagName == "IMG");
+        const bad = images.filter(i => i.classList.contains("bad"))[0];
+        const good = images.filter(i => i.classList.contains("good"))[0];
+        bad.style.clipPath = `inset(0 ${(100 - slider.value)}% 0 0)`;
+        good.style.clipPath = `inset(0 0 0 ${slider.value}%)`;
+    }
+</script>
+
+{{ content }}
+
+<style>
+    .slidingImagesContainer {
+        height: 420px;
+    }
+
+    .slidingImages {
+        position: relative;
+    }
+
+    .slidingImages img {
+        position: absolute;
+    }
+
+    .good {
+        clip-path: inset(0 0 0 100%);
+    }
+
+    input {
+        width: 100%;
+    }
+</style>
