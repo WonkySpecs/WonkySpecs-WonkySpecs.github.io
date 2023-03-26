@@ -283,6 +283,24 @@ footer {
   text-align: center;
 }
 
+//
+// Customizations
+//
+
+.captioned-image {
+  margin: 0.65em 0;
+}
+
+.captioned-image img {
+  margin-bottom: -0.25em;
+}
+
+.captioned-image figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: medium;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
