@@ -18,16 +18,17 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #111;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .container {
-  margin: 0 auto;
   max-width: 900px;
   padding: 0 20px;
-  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -71,7 +72,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -288,11 +289,11 @@ footer {
 //
 
 .captioned-image {
-  margin: 0.65em 0;
-}
-
-.captioned-image img {
-  margin-bottom: -0.25em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0.65em;
+  margin-bottom: 0.65em;
 }
 
 .captioned-image figcaption {
