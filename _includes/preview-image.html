@@ -1,0 +1,14 @@
+<span>
+  <a onmouseenter="displayPreview('{{ include.id }}-preview')"
+     onmouseleave="closePreview('{{ include.id }}-preview')"
+     href="{{ include.src }}">
+    {{ include.text }}
+  </a>
+  <span id="{{ include.id }}-preview"
+        class="preview-image-container">
+    <img src="{{ include.src }}"
+         alt="{{ include.alt }}"
+         loading="lazy"
+         />
+  </span>
+</span>

@@ -304,6 +304,18 @@ footer {
   font-size: medium;
 }
 
+.preview-image-container {
+  visibility: hidden;
+  position: fixed;
+  max-width: 25em;
+  top: 50vh;
+  transform: translate(0, -50%);
+  padding: 0.7em;
+  background: #fafafa;
+  border: 2px solid #353535;
+  border-radius: 3px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
